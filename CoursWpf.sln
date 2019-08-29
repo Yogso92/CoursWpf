@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoursWpf", "CoursWpf\CoursW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoCalculatrice", "ExoCalculatrice\ExoCalculatrice.csproj", "{960CBDFD-B87E-4A23-90B0-9C24FBE00104}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCollection", "WpfCollection\WpfCollection.csproj", "{646F66C1-080B-4572-B8D5-79D25765B7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeApi", "PokeApi\PokeApi.csproj", "{5D365630-D6EF-4E8E-BAD6-E2ED007EA3FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{960CBDFD-B87E-4A23-90B0-9C24FBE00104}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{960CBDFD-B87E-4A23-90B0-9C24FBE00104}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{960CBDFD-B87E-4A23-90B0-9C24FBE00104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646F66C1-080B-4572-B8D5-79D25765B7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646F66C1-080B-4572-B8D5-79D25765B7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646F66C1-080B-4572-B8D5-79D25765B7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646F66C1-080B-4572-B8D5-79D25765B7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D365630-D6EF-4E8E-BAD6-E2ED007EA3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D365630-D6EF-4E8E-BAD6-E2ED007EA3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D365630-D6EF-4E8E-BAD6-E2ED007EA3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D365630-D6EF-4E8E-BAD6-E2ED007EA3FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

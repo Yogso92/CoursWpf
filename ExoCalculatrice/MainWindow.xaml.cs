@@ -103,6 +103,10 @@ namespace ExoCalculatrice
                 NeedWipe = true;
             }
         }
+        public void OnComaClick(object sender, RoutedEventArgs e)
+        {
+            Output.Content += ",";
+        }
         private void Calculate()
         {
             double temp = double.Parse(Output.Content.ToString());

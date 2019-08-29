@@ -98,7 +98,7 @@
             <Button Content="0" Background="Transparent" Click="OnNumberClick"/>
         </Border>
         <Border Grid.Row="6" Grid.Column="2" Style="{StaticResource BtnBlack}" >
-            <Button Content="," Background="Transparent"/>
+            <Button Content="," Background="Transparent" Click="OnComaClick"/>
         </Border>
         
         
